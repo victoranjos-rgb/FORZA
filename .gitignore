@@ -1,0 +1,10 @@
+backend/.env
+backend/storage/*
+!backend/storage/.gitkeep
+*.zip
+*.pem
+*.crt
+
+*.log
+artifacts/
+.tools/
